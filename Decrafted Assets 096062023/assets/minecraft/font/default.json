@@ -1,0 +1,1070 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "decrafted:badges/owner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "decrafted:badges/admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE001"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/mvp.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "decrafted:badges/vip.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE003"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/tester.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE004"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/member.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE005"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/moderator.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE006"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/trialmoderator.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE007"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/sussy.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE008"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/realuwu.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE009"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/pikasurf.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["\uE00A"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/mogus.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE00B"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/pepega.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE00C"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/kekw.png",
+            "ascent": 8,
+            "height": 11,
+            "chars": ["\uE00D"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/peepohappy.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": ["\uE00E"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/sadge.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE00F"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/monkas.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE010"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/wave.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE011"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/thinking.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE012"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/b.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE013"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/crying.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE014"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/nerd.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE015"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/moyai.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE016"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/crab.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE017"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/rofl.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE018"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flooshed.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE019"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/laugh.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01A"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flooshed.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE01B"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flushed.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE01C"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/sus.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE01E"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/rubber-duck.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE01F"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/discord.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE020"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flag_uk.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE021"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flag_pl.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE022"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/plus1.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE023"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flag_slv.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE024"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flag_sk.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE025"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/facepalm.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["\uE026"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flag_nl.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE027"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/skull.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE028"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/sunglasses.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE029"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/blobcat_cookie.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE02A"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/meow_amongus.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE02B"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/builder.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE02C"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/architect.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE02D"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/flag_cz.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": ["\uE02E"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/frog.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE02F"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/epictroll.png",
+            "ascent": 9,
+            "height": 16,
+            "chars": ["\uE030"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/angy.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE031"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/poggers.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE032"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/spongebob_bruh.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["\uE033"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/aaaa.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": ["\uE034"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/amongus.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE035"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/bigbrain.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE036"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/dogelaugh.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE037"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/troll.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE038"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/disappointed.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE039"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/hard.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE03A"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/hamster.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE03B"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/doge.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE03C"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:emotes/gottem.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": ["\uE03D"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/cute.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE03E"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/streamer.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE03F"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/youtuber.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE040"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/fps.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE041"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:badges/co-owner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE042"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:font/main_gui.png",
+            "ascent": 48,
+            "height": 256,
+            "chars": ["\uE043"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:font/polydex_gui.png",
+            "ascent": 36,
+            "height": 256,
+            "chars": ["\uE044"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:font/decraftedlogo.png",
+            "ascent": 20,
+            "height": 64,
+            "chars": ["\uE045"]
+        },
+		{
+            "type": "bitmap",
+            "file": "decrafted:font/polydex_gui_recipe_preview.png",
+            "ascent": 36,
+            "height": 256,
+            "chars": ["\uE046"]
+        },
+    {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF80A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF80B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF80D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF80E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF80F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF822"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF823"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF824"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF825"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF826"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF827"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF828"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF829"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF82A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF82B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF82C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF82D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF82E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF82F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF820"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF81A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF81B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF81C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF81D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF81E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF81F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF831"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF832"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF833"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF834"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF835"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF836"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF837"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF838"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF839"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF83A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF83B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF83C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF83D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF83E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF83F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF830"
+            ]
+        }
+    ]
+}

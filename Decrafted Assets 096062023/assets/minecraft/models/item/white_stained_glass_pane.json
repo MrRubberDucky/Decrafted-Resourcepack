@@ -1,0 +1,85 @@
+	{
+		"parent": "item/generated",
+		"textures": {
+			"layer0": "block/white_stained_glass"
+		},
+		"overrides": [{
+				"predicate": {
+					"custom_model_data": 51000
+				},
+				"model": "item/custom/confirmationsym"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51001
+				},
+				"model": "item/custom/denysym"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51002
+				},
+				"model": "item/custom/leavesym"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51003
+				},
+				"model": "item/custom/returnsym"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51004
+				},
+				"model": "item/custom/questionsym"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51006
+				},
+				"model": "item/custom/allemote"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51007
+				},
+				"model": "item/custom/vipsym"
+			},		
+			{
+				"predicate": {
+					"custom_model_data": 51009
+				},
+				"model": "item/custom/guisource"
+			},		
+			{
+				"predicate": {
+					"custom_model_data": 51011
+				},
+				"model": "item/custom/guishutdown"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51012
+				},
+				"model": "item/custom/guileft"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51013
+				},
+				"model": "item/custom/guibook"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51024
+				},
+				"model": "item/custom/guiright"
+			},
+			{
+				"predicate": {
+					"custom_model_data": 51027
+				},
+				"model": "item/custom/guiselecthand"
+			}
+		]
+	}

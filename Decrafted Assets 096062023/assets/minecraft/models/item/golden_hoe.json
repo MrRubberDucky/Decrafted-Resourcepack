@@ -1,0 +1,13 @@
+	{
+		"parent": "item/generated",
+		"textures": {
+			"layer0": "item/golden_hoe"
+		},
+		"overrides": [{
+			"predicate": {
+			"damaged": 0, 
+			"custom_model_data": 51010
+			},
+			"model": "item/custom/guipart"
+		}]
+	}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/gui2",
+	"textures": {
+		"layer0": "item/guipipeb"
+	}
+}

@@ -1,0 +1,68 @@
+	{
+		"parent": "item/generated",
+		"textures": {
+			"layer0": "block/green_stained_glass"
+		},
+		"overrides": [
+		{
+			"predicate": {
+			"custom_model_data": 51011
+			},
+			"model": "item/custom/guiplus"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51012
+			},
+			"model": "item/custom/guistonecutter"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51013
+			},
+			"model": "item/custom/guiequal"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51014
+			},
+			"model": "item/custom/guiprocess"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51015
+			},
+			"model": "item/custom/guixp"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51016
+			},
+			"model": "item/custom/guifire"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51017
+			},
+			"model": "item/custom/guicontb"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51018
+			},
+			"model": "item/custom/guipipeb"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51019
+			},
+			"model": "item/custom/guiprocess2"
+		},
+		{
+			"predicate": {
+			"custom_model_data": 51020
+			},
+			"model": "item/custom/guidownb"
+		}
+		]
+	}

@@ -5,4 +5,10 @@ It was intended to be used in Decrafted, a Minecraft pure server-side Fabric pro
 
 You can re-use these assets but only if you credit OG_MrRubberDucky (My Minecraft Name) in your project. (MIT License)
 
-`/aseprite/` folder contains source material, you can open it via a program called Aseprite which is a nice Pixel Art tool.
+---
+
+## Directories
+
+- `aseprite/` folder contains source material, you can open it via a program called Aseprite which is a nice Pixel Art tool.
+- `Decrafted Assets 09062023/` last known up-to-date version.
+-  `decrafted/`, `minecraft/` random raw files from some variant of the resourcepack.
